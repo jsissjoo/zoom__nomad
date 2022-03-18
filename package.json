@@ -1,0 +1,23 @@
+{
+  "name": "zum__nomad",
+  "version": "1.0.0",
+  "description": "Zoom Clone using WebRTC and WebSockets",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsissjoo/zum__nomad/issues"
+  },
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "homepage": "https://github.com/jsissjoo/zum__nomad#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.7",
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.11",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}

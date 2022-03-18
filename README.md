@@ -1,1 +1,3 @@
-# zum__nomad
+# Noom
+
+ZoomClone using NodeJS, WebRTC and Websockets
